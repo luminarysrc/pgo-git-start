@@ -1,1 +1,1 @@
-# pgo-git-start
+this is a studies related repo
